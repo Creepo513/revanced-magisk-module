@@ -10,3 +10,5 @@ YouTube version: 17.33.42
 Music (arm64-v8a) version: 5.23.50  
 
 TikTok version: 26.1.17  
+
+[revanced-magisk-module repo](https://github.com/j-hc/revanced-magisk-module)
